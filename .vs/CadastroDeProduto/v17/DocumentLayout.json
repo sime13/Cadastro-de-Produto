@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asimu\\OneDrive\\Documentos\\Github Project\\CadastroDeProduto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C65A00B1-74E2-49CA-A7DD-89E5FB9E18DF}|CadastroDeProduto\\CadastroDeProduto.csproj|c:\\users\\asimu\\onedrive\\documentos\\github project\\cadastrodeproduto\\cadastrodeproduto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C65A00B1-74E2-49CA-A7DD-89E5FB9E18DF}|CadastroDeProduto\\CadastroDeProduto.csproj|solutionrelative:cadastrodeproduto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65A00B1-74E2-49CA-A7DD-89E5FB9E18DF}|CadastroDeProduto\\CadastroDeProduto.csproj|c:\\users\\asimu\\onedrive\\documentos\\github project\\cadastrodeproduto\\cadastrodeproduto\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{C65A00B1-74E2-49CA-A7DD-89E5FB9E18DF}|CadastroDeProduto\\CadastroDeProduto.csproj|solutionrelative:cadastrodeproduto\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65A00B1-74E2-49CA-A7DD-89E5FB9E18DF}|CadastroDeProduto\\CadastroDeProduto.csproj|c:\\users\\asimu\\onedrive\\documentos\\github project\\cadastrodeproduto\\cadastrodeproduto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C65A00B1-74E2-49CA-A7DD-89E5FB9E18DF}|CadastroDeProduto\\CadastroDeProduto.csproj|solutionrelative:cadastrodeproduto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65A00B1-74E2-49CA-A7DD-89E5FB9E18DF}|CadastroDeProduto\\CadastroDeProduto.csproj|c:\\users\\asimu\\onedrive\\documentos\\github project\\cadastrodeproduto\\cadastrodeproduto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C65A00B1-74E2-49CA-A7DD-89E5FB9E18DF}|CadastroDeProduto\\CadastroDeProduto.csproj|solutionrelative:cadastrodeproduto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65A00B1-74E2-49CA-A7DD-89E5FB9E18DF}|CadastroDeProduto\\CadastroDeProduto.csproj|c:\\users\\asimu\\onedrive\\documentos\\github project\\cadastrodeproduto\\cadastrodeproduto\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C65A00B1-74E2-49CA-A7DD-89E5FB9E18DF}|CadastroDeProduto\\CadastroDeProduto.csproj|solutionrelative:cadastrodeproduto\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asimu\\OneDrive\\Documentos\\Github Project\\CadastroDeProduto\\CadastroDeProduto\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CadastroDeProduto\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\asimu\\OneDrive\\Documentos\\Github Project\\CadastroDeProduto\\CadastroDeProduto\\Form1.Designer.cs",
+              "RelativeToolTip": "CadastroDeProduto\\Form1.Designer.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAWwGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T20:27:11.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\asimu\\OneDrive\\Documentos\\Github Project\\CadastroDeProduto\\CadastroDeProduto\\Form1.cs",
+              "RelativeDocumentMoniker": "CadastroDeProduto\\Form1.cs",
+              "ToolTip": "C:\\Users\\asimu\\OneDrive\\Documentos\\Github Project\\CadastroDeProduto\\CadastroDeProduto\\Form1.cs",
+              "RelativeToolTip": "CadastroDeProduto\\Form1.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwDUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T20:23:45.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\asimu\\OneDrive\\Documentos\\Github Project\\CadastroDeProduto\\CadastroDeProduto\\Form1.resx",
+              "RelativeDocumentMoniker": "CadastroDeProduto\\Form1.resx",
+              "ToolTip": "C:\\Users\\asimu\\OneDrive\\Documentos\\Github Project\\CadastroDeProduto\\CadastroDeProduto\\Form1.resx",
+              "RelativeToolTip": "CadastroDeProduto\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-30T20:22:32.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asimu\\OneDrive\\Documentos\\Github Project\\CadastroDeProduto\\CadastroDeProduto\\Program.cs",
+              "RelativeDocumentMoniker": "CadastroDeProduto\\Program.cs",
+              "ToolTip": "C:\\Users\\asimu\\OneDrive\\Documentos\\Github Project\\CadastroDeProduto\\CadastroDeProduto\\Program.cs",
+              "RelativeToolTip": "CadastroDeProduto\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T20:22:09.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\asimu\\OneDrive\\Documentos\\Github Project\\CadastroDeProduto\\CadastroDeProduto\\Form1.cs",
+              "RelativeDocumentMoniker": "CadastroDeProduto\\Form1.cs",
+              "ToolTip": "C:\\Users\\asimu\\OneDrive\\Documentos\\Github Project\\CadastroDeProduto\\CadastroDeProduto\\Form1.cs [Design]",
+              "RelativeToolTip": "CadastroDeProduto\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T20:14:24.191Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

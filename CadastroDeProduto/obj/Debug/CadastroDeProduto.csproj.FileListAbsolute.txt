@@ -1,0 +1,10 @@
+C:\Users\asimu\OneDrive\Documentos\Github Project\CadastroDeProduto\CadastroDeProduto\bin\Debug\CadastroDeProduto.exe.config
+C:\Users\asimu\OneDrive\Documentos\Github Project\CadastroDeProduto\CadastroDeProduto\bin\Debug\CadastroDeProduto.exe
+C:\Users\asimu\OneDrive\Documentos\Github Project\CadastroDeProduto\CadastroDeProduto\bin\Debug\CadastroDeProduto.pdb
+C:\Users\asimu\OneDrive\Documentos\Github Project\CadastroDeProduto\CadastroDeProduto\obj\Debug\CadastroDeProduto.csproj.AssemblyReference.cache
+C:\Users\asimu\OneDrive\Documentos\Github Project\CadastroDeProduto\CadastroDeProduto\obj\Debug\CadastroDeProduto.Form1.resources
+C:\Users\asimu\OneDrive\Documentos\Github Project\CadastroDeProduto\CadastroDeProduto\obj\Debug\CadastroDeProduto.Properties.Resources.resources
+C:\Users\asimu\OneDrive\Documentos\Github Project\CadastroDeProduto\CadastroDeProduto\obj\Debug\CadastroDeProduto.csproj.GenerateResource.cache
+C:\Users\asimu\OneDrive\Documentos\Github Project\CadastroDeProduto\CadastroDeProduto\obj\Debug\CadastroDeProduto.csproj.CoreCompileInputs.cache
+C:\Users\asimu\OneDrive\Documentos\Github Project\CadastroDeProduto\CadastroDeProduto\obj\Debug\CadastroDeProduto.exe
+C:\Users\asimu\OneDrive\Documentos\Github Project\CadastroDeProduto\CadastroDeProduto\obj\Debug\CadastroDeProduto.pdb
